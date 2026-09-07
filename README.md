@@ -1,16 +1,34 @@
-## Hi there 👋
+### Backend-разработчик · Python
 
-<!--
-**krein15/krein15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Пишу Telegram-ботов и бэкенд к ним. Специализируюсь на том,
+что происходит **после** написания кода: развернуть на сервере,
+настроить автозапуск и логи, следить, чтобы работало без меня.
 
-Here are some ideas to get you started:
+**Чем занимаюсь**
+- Telegram-боты на `aiogram`: меню, состояния, базы данных, платежи, админ-панели
+- Интеграция нейросетей в боты и сервисы через API
+- Парсинг и сбор данных, работа с REST API
+- Деплой на VPS: окружение, `systemd`, `Docker`, мониторинг
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Стек**
+`Python` · `aiogram` · `PostgreSQL` · `SQLAlchemy` · `Docker` · `Linux / VPS` · `Git`
+
+---
+
+### Проекты
+
+**USL** — сторож стоп-лоссов для крипто-фьючерсов.
+Следит за позициями и не даёт им уехать дальше заданного уровня.
+*Готовлю к публикации в открытый доступ.*
+
+**Polymarket Tracker** — трекер подозрительной активности на Polymarket.
+Собирает и разбирает сделки, ищет паттерны инсайдерской торговли.
+*В разработке.*
+
+**Soliaris** — Telegram-бот, первый самостоятельный проект.
+Довёл до рабочего состояния, пользователей не набрал — оставил как опыт.
+
+---
+
+Открыт к заказам и постоянному сотрудничеству.
+Telegram: [@krein1](https://t.me/krein1)
